@@ -1,0 +1,34 @@
+{
+  "name": "lightbox2rotate",
+  "authors": [
+    "Lokesh Dhakar <lokesh.dhakar@gmail.com>"
+    "Wolf <winnerwolf@yandex.com>"
+  ],
+  "description": "Lightbox2 with images rotation",
+  "main": [
+     "./src/js/lightbox2rotate.js",
+     "./src/css/lightbox2rotate.css",
+     "./src/img/close.png",
+     "./src/img/next.png",
+     "./src/img/prev.png",
+     "./src/img/close.png",
+     "./src/img/loading2.gif"
+  ],
+  "keywords": [
+    "lightbox2",
+    "rotate"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2",
+    "jqueryrotate": "~2.3.0"
+  }
+}
