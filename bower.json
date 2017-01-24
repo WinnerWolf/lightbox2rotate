@@ -30,6 +30,6 @@
   ],
   "dependencies": {
     "jquery": "~2",
-    "jqueryrotate": "~2.3.0"
+    "jqueryrotate": "git://github.com/aaronshsieh/jqueryrotate.git#master"
   }
 }
